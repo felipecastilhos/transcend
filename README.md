@@ -1,1 +1,1 @@
-pimp-my-ubuntu
+This repository contains my installation files to setup my ubuntu programs and configurations :)
