@@ -4,6 +4,8 @@ echo "###Startint to setup basic dev tools"
 
 toinstall="$@"
 
+toinstall="$toinstall curl"
+
 #installs a basic command line editor
 toinstall="$toinstall vim"
 
