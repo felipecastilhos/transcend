@@ -11,5 +11,5 @@ setup/setup-charles-proxy.sh
 setup/drawing-tools/install-krita
 
 #SYSTEM BASIC SETUP
-setup/setup-browser.sh
+setup/setup-brave-browser.sh
 setup/setup-vscode.sh
