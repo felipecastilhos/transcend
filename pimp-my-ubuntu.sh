@@ -7,6 +7,9 @@ setup/setup-android-dev-tools.sh
 setup/setup-git-kraken.sh
 setup/setup-charles-proxy.sh
 
+#SETUP DRAWING TOOLS
+setup/drawing-tools/install-krita
+
 #SYSTEM BASIC SETUP
 setup/setup-browser.sh
 setup/setup-vscode.sh
