@@ -13,3 +13,6 @@ setup/drawing-tools/install-krita
 #SYSTEM BASIC SETUP
 setup/setup-brave-browser.sh
 setup/setup-vscode.sh
+
+#SETUP ZSH
+setup/zsh/install-zsh.sh

@@ -2,4 +2,7 @@
 
 echo "###Starting to install zsh"
 
-sudo apt-get install zsh
+echo $(whoami)
+sudo apt-get install -y zsh
+chsh -s /usr/bin/zsh $(whoami)
+cp .zshrc ~/
