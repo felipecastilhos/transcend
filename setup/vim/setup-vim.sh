@@ -1,5 +1,5 @@
 #!/bin/bash
 
-#apt install vim
+apt install vim
 cp .vimrc ~/
 
