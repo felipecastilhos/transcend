@@ -59,7 +59,8 @@ urxvt.urgentOnBell:  true
 
 
 !! URxvt Appearance
-!URxvt.font: -*-JetBrainsMono-*
+URxvt.font: xft:JetBrainsMono-Regular:pixelsize=15:antialias=true:autohint=true
+URxvt.boldFont:	JetBrainsMono-Bold:Bold:pixelsize=12:antialias=true:autohint=true
 !URxvt.boldFont: -*-rissole-*
 !URxvt.italicFont: -*-rissole-*
 !URxvt.boldItalicfont: -*-rissole-*
