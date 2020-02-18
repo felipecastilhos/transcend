@@ -6,10 +6,10 @@ toinstall="$@"
 
 toinstall="$toinstall curl"
 
-#installs a basic command line editor
-toinstall="$toinstall vim"
-
 #installs git cli
 toinstall="$toinstall git"
 
 apt install -y $toinstall
+cd vim
+./setup-vim.sh
+cd ..
